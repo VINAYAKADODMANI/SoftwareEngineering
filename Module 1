@@ -1,0 +1,29 @@
+MOdule 1
+  SDLC
+  * what is SDLC?
+  - A framework which desc the activities performed at each of software develpoment project.
+  * SDLC phases
+  planning
+  analysis
+  Design 
+  Development
+  Testing
+  Implementation
+  Maintenance
+* model of SDLC
+-- Waterfall model
+    -- no overlapping of the phases
+    -- the steps will continue one after the other
+  -- good for samll project
+-- V shape model
+  -- process ececution happens ina sequential manner like v
+  -- also called as varification and validation \
+  --one side the varificatioon will happen and the oteeher side validation will take place
+  -- the code part will be connected from both
+  -- good for samll project
+-- Evolutary model
+  -- combination of iterative and incremental model
+-- spiral model
+  -- combi of iterative and sequential linear dev model
+-- Prototying model
+  
